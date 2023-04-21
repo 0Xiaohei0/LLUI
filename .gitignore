@@ -1,0 +1,11 @@
+.vscode
+Audio/*
+Output/*
+.venv*
+*.txt
+__*
+VOICEVOX/*
+*.wav
+*.exe
+*.wav
+settings.json
