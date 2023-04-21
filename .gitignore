@@ -10,3 +10,6 @@ VOICEVOX/*
 *.wav
 settings.json
 models--staka--fugumt-en-ja
+*.dll
+open_jtalk_dic_utf_8-1.11
+!requirements.txt
